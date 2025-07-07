@@ -35,7 +35,9 @@ That's it!
 
 calculator-app/
 ├── calculator.html # HTML structure
+
 ├── style.css # Styling and layout
+
 └── README.md # Project overview
 
 
