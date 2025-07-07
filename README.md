@@ -26,4 +26,23 @@ A simple and responsive calculator built using HTML, CSS, and JavaScript. It per
 
 1. Clone this repository:
    https://github.com/NeoBuntse/Calculator-App
+   
+3. Open `index.html` in your browser
+
+That's it!
+
+## 📂 Project Structure
+
+calculator-app/
+├── calculator.html # HTML structure
+├── style.css # Styling and layout
+└── README.md # Project overview
+
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+
+
 
