@@ -34,6 +34,7 @@ That's it!
 ## 📂 Project Structure
 
 calculator-app/
+
 ├── calculator.html # HTML structure
 
 ├── style.css # Styling and layout
