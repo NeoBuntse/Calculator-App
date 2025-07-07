@@ -17,9 +17,10 @@ A simple and responsive calculator built using HTML, CSS, and JavaScript. It per
 
 ## 📸 Demo
 
-![Calculator App Screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/90a071b8-30b2-4cc8-a2c5-bb523413ffb8)
 
-<!-- If you have no screenshot yet, take one and add it to the project folder -->
+
+
 
 ## 🚀 How to Run Locally
 
