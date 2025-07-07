@@ -25,4 +25,5 @@ A simple and responsive calculator built using HTML, CSS, and JavaScript. It per
 ## 🚀 How to Run Locally
 
 1. Clone this repository:
+   https://github.com/NeoBuntse/Calculator-App
 
